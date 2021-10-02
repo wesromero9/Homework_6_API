@@ -1,2 +1,1 @@
-# Rutgers-Fintech-Homework
-In this repository I will save all of my homework from each week
+In this folder I will store my week 6 API homework
